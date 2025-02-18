@@ -1,2 +1,4 @@
 # VAE
-Exploring various questions about VAEs 
+Exploring various questions about VAEs
+
+--- 
