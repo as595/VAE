@@ -4,6 +4,7 @@ Exploring various questions about VAEs
 --- 
 
 - [ ] batch norm or no batch norm in encoder-decoder
+- [ ] ReLU vs leaky ReLU
 - [ ] beta-VAE effect
 - [ ] taking expectation of nll over image / using normalised-beta
 - [ ] image statistics based regularisation term
